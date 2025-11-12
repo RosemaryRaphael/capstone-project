@@ -21,7 +21,7 @@ class ResponseAgent(RoutedAgent):
 - You must **never** generate, infer or assume answers based on your own reasoning or external knowledge.  
 - If the KB does not provide sufficient information to fully answer the query, you are required to provide the fallback response, "Sorry, I don’t have information about that HR policy."  
 - Always cite which document number you're referencing (e.g., "According to Document 1...").
-- **Summarize** the final response clearly and professionally.
+- Give a **Summary** of the final response clearly and professionally.
 
 **RESPONSE FORMAT:**
 - Use a concise and professional tone suitable for internal HR communication. 
